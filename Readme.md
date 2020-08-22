@@ -66,12 +66,13 @@ next notebooks:
 
 
 ### Files and Folders
-- data/LendingClub_2007.csv provided data set
-- data/cleaned_dataset.csv dataset after cleansing
-- data/LoanStats.csv column explanations
-- slides/slides.pdf : slide deck visualising the findings (10min.)
-- 01-DataCleaning.ipynb: Data cleansing for subsequent EDA
-- 02-EDA.ipynb : jupyter notebook with Exploratory Data Analysis (EDA), python code, visualizations, further documentation and business case
+- dataset can not be published due to nda
+- data/glossary.xlsx: list of all features
+- slides/slides.pdf: slide deck visualising the findings (10min.)
+- 1-Cleaning.ipynb: Data cleansing for subsequent EDA
+- 2-EDA.ipynb: jupyter notebook with Exploratory Data Analysis (EDA), visualizations, further documentation
+- 3-Modelling_Repeater.ipynb: predicting repeating customers
+- 4-Modelling_VIPs.ipynb: predicting solvent guests
 
 
 ### Python Modules used:
