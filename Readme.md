@@ -65,7 +65,7 @@ next notebooks:
  - Feedback from tripadvisor, yelp, etc. as well as from hotel internal surveys
 
 
-## Files and Folders
+### Files and Folders
 - data/LendingClub_2007.csv provided data set
 - data/cleaned_dataset.csv dataset after cleansing
 - data/LoanStats.csv column explanations
@@ -74,11 +74,11 @@ next notebooks:
 - 02-EDA.ipynb : jupyter notebook with Exploratory Data Analysis (EDA), python code, visualizations, further documentation and business case
 
 
-## Python Modules used:
+### Python Modules used:
 Pandas / NumPy / Matplotlib / Seaborn / sklearn
 
 
-## License
+### License
 This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). 
 For more details, please take a look at the [LICENSE file](https://github.com/argv1/LendingClub-EDA/blob/master/LICENSE).
 
