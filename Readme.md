@@ -53,8 +53,8 @@ next notebooks:
 - Columns lkz & sprache_deutsch have low value for the analysis
 - Guest of the Viana do Castelo show a different booking behaviour than the rest
 - Guest from Linz and Düsseldorf are very similar. 
-- XXX is best suited for forecasting regular guests.
-- To identify solvent customers, XXX delivers the best results.
+- Adaboost is best suited for forecasting regular guests.
+- To identify solvent customers, a logistic regression with dummie variables turned out to deliver the best result.
 
 
 ### To-Do-List / Outlook
