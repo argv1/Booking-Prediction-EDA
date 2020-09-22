@@ -55,7 +55,8 @@ next notebooks:
 - Guest from Linz and Düsseldorf are very similar. 
 - Adaboost is best suited for forecasting regular guests.
 - To identify solvent customers, a logistic regression with dummie variables turned out to deliver the best result.
-
+- Hotels should focus on win customer to book less via travel agency
+- Advertising ban does not have a negative impact on follow up bookings
 
 ### To-Do-List / Outlook
 - Adding additional information like:
